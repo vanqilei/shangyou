@@ -1,0 +1,3 @@
+open ftp.sra.ebi.ac.uk:/vol1/fastq/SRR134/040//SRR13435640
+pget -cn 12 SRR13435640_1.fastq.gz
+pget -cn 12 SRR13435640_2.fastq.gz

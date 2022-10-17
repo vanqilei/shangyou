@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for i in `seq 40 42`
+do
+rm dlt
+echo open ftp.sra.ebi.ac.uk:/vol1/fastq/SRR134/0$i//SRR134356$i >> dlt
+echo pget -cn 12 SRR134356${i}_1.fastq.gz >> dlt
+echo pget -cn 12 SRR134356${i}_2.fastq.gz >> dlt
+lftp -f dlt   
+done

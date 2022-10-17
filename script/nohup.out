@@ -1,0 +1,790 @@
+
+2022-10-09T18:37:38 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:37:39 prefetch.3.0.0: 1) Downloading 'SRR2979644'...
+2022-10-09T18:37:39 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:37:39 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:38:04 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:38:04 prefetch.3.0.0:  'SRR2979644' is valid
+2022-10-09T18:38:04 prefetch.3.0.0: 1) 'SRR2979644' was downloaded successfully
+2022-10-09T18:38:04 prefetch.3.0.0: 'SRR2979644' has 0 unresolved dependencies
+
+2022-10-09T18:38:06 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:38:07 prefetch.3.0.0: 1) Downloading 'SRR2979645'...
+2022-10-09T18:38:07 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:38:07 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:38:31 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:38:31 prefetch.3.0.0:  'SRR2979645' is valid
+2022-10-09T18:38:31 prefetch.3.0.0: 1) 'SRR2979645' was downloaded successfully
+2022-10-09T18:38:31 prefetch.3.0.0: 'SRR2979645' has 0 unresolved dependencies
+
+2022-10-09T18:38:33 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:38:34 prefetch.3.0.0: 1) Downloading 'SRR2979646'...
+2022-10-09T18:38:34 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:38:34 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:38:52 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:38:52 prefetch.3.0.0:  'SRR2979646' is valid
+2022-10-09T18:38:52 prefetch.3.0.0: 1) 'SRR2979646' was downloaded successfully
+2022-10-09T18:38:52 prefetch.3.0.0: 'SRR2979646' has 0 unresolved dependencies
+
+2022-10-09T18:38:54 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:38:55 prefetch.3.0.0: 1) Downloading 'SRR2979647'...
+2022-10-09T18:38:55 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:38:55 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:39:09 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:39:09 prefetch.3.0.0:  'SRR2979647' is valid
+2022-10-09T18:39:09 prefetch.3.0.0: 1) 'SRR2979647' was downloaded successfully
+2022-10-09T18:39:09 prefetch.3.0.0: 'SRR2979647' has 0 unresolved dependencies
+
+2022-10-09T18:39:11 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:39:12 prefetch.3.0.0: 1) Downloading 'SRR2979648'...
+2022-10-09T18:39:12 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:39:12 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:39:20 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:39:20 prefetch.3.0.0:  'SRR2979648' is valid
+2022-10-09T18:39:20 prefetch.3.0.0: 1) 'SRR2979648' was downloaded successfully
+2022-10-09T18:39:20 prefetch.3.0.0: 'SRR2979648' has 0 unresolved dependencies
+
+2022-10-09T18:39:22 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:39:23 prefetch.3.0.0: 1) Downloading 'SRR2979649'...
+2022-10-09T18:39:23 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:39:23 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:39:33 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:39:33 prefetch.3.0.0:  'SRR2979649' is valid
+2022-10-09T18:39:33 prefetch.3.0.0: 1) 'SRR2979649' was downloaded successfully
+2022-10-09T18:39:33 prefetch.3.0.0: 'SRR2979649' has 0 unresolved dependencies
+
+2022-10-09T18:39:35 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:39:36 prefetch.3.0.0: 1) Downloading 'SRR2979650'...
+2022-10-09T18:39:36 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:39:36 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:39:53 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:39:53 prefetch.3.0.0:  'SRR2979650' is valid
+2022-10-09T18:39:53 prefetch.3.0.0: 1) 'SRR2979650' was downloaded successfully
+2022-10-09T18:39:53 prefetch.3.0.0: 'SRR2979650' has 0 unresolved dependencies
+
+2022-10-09T18:39:56 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:39:57 prefetch.3.0.0: 1) Downloading 'SRR2979651'...
+2022-10-09T18:39:57 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:39:57 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:40:11 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:40:11 prefetch.3.0.0:  'SRR2979651' is valid
+2022-10-09T18:40:11 prefetch.3.0.0: 1) 'SRR2979651' was downloaded successfully
+2022-10-09T18:40:11 prefetch.3.0.0: 'SRR2979651' has 0 unresolved dependencies
+
+2022-10-09T18:40:13 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:40:14 prefetch.3.0.0: 1) Downloading 'SRR2979652'...
+2022-10-09T18:40:14 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:40:14 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:40:30 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:40:30 prefetch.3.0.0:  'SRR2979652' is valid
+2022-10-09T18:40:30 prefetch.3.0.0: 1) 'SRR2979652' was downloaded successfully
+2022-10-09T18:40:30 prefetch.3.0.0: 'SRR2979652' has 0 unresolved dependencies
+
+2022-10-09T18:40:32 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:40:33 prefetch.3.0.0: 1) Downloading 'SRR2979653'...
+2022-10-09T18:40:33 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:40:33 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:40:55 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:40:55 prefetch.3.0.0:  'SRR2979653' is valid
+2022-10-09T18:40:55 prefetch.3.0.0: 1) 'SRR2979653' was downloaded successfully
+2022-10-09T18:40:55 prefetch.3.0.0: 'SRR2979653' has 0 unresolved dependencies
+
+2022-10-09T18:40:57 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:40:58 prefetch.3.0.0: 1) Downloading 'SRR2979654'...
+2022-10-09T18:40:58 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:40:58 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:41:22 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:41:22 prefetch.3.0.0:  'SRR2979654' is valid
+2022-10-09T18:41:22 prefetch.3.0.0: 1) 'SRR2979654' was downloaded successfully
+2022-10-09T18:41:22 prefetch.3.0.0: 'SRR2979654' has 0 unresolved dependencies
+
+2022-10-09T18:41:24 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:41:25 prefetch.3.0.0: 1) Downloading 'SRR2979655'...
+2022-10-09T18:41:25 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:41:25 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:41:40 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:41:41 prefetch.3.0.0:  'SRR2979655' is valid
+2022-10-09T18:41:41 prefetch.3.0.0: 1) 'SRR2979655' was downloaded successfully
+2022-10-09T18:41:41 prefetch.3.0.0: 'SRR2979655' has 0 unresolved dependencies
+
+2022-10-09T18:41:42 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:41:43 prefetch.3.0.0: 1) Downloading 'SRR2979656'...
+2022-10-09T18:41:43 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:41:43 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:42:03 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:42:03 prefetch.3.0.0:  'SRR2979656' is valid
+2022-10-09T18:42:03 prefetch.3.0.0: 1) 'SRR2979656' was downloaded successfully
+2022-10-09T18:42:03 prefetch.3.0.0: 'SRR2979656' has 0 unresolved dependencies
+
+2022-10-09T18:42:05 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:42:06 prefetch.3.0.0: 1) Downloading 'SRR2979657'...
+2022-10-09T18:42:06 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:42:06 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:42:21 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:42:21 prefetch.3.0.0:  'SRR2979657' is valid
+2022-10-09T18:42:21 prefetch.3.0.0: 1) 'SRR2979657' was downloaded successfully
+2022-10-09T18:42:21 prefetch.3.0.0: 'SRR2979657' has 0 unresolved dependencies
+
+2022-10-09T18:42:23 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:42:24 prefetch.3.0.0: 1) Downloading 'SRR3038523'...
+2022-10-09T18:42:24 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:42:24 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:44:40 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:44:41 prefetch.3.0.0:  'SRR3038523' is valid
+2022-10-09T18:44:41 prefetch.3.0.0: 1) 'SRR3038523' was downloaded successfully
+
+2022-10-09T18:44:43 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:44:44 prefetch.3.0.0: 1) Downloading 'SRR3038524'...
+2022-10-09T18:44:44 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:44:44 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:46:48 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:46:50 prefetch.3.0.0:  'SRR3038524' is valid
+2022-10-09T18:46:50 prefetch.3.0.0: 1) 'SRR3038524' was downloaded successfully
+
+2022-10-09T18:46:52 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:46:53 prefetch.3.0.0: 1) Downloading 'SRR3038525'...
+2022-10-09T18:46:53 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:46:53 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:51:43 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:51:45 prefetch.3.0.0:  'SRR3038525' is valid
+2022-10-09T18:51:45 prefetch.3.0.0: 1) 'SRR3038525' was downloaded successfully
+
+2022-10-09T18:51:48 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:51:49 prefetch.3.0.0: 1) Downloading 'SRR3038526'...
+2022-10-09T18:51:49 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:51:49 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:55:20 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:55:22 prefetch.3.0.0:  'SRR3038526' is valid
+2022-10-09T18:55:22 prefetch.3.0.0: 1) 'SRR3038526' was downloaded successfully
+
+2022-10-09T18:55:25 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:55:26 prefetch.3.0.0: 1) Downloading 'SRR3038527'...
+2022-10-09T18:55:26 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:55:26 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T18:58:29 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T18:58:31 prefetch.3.0.0:  'SRR3038527' is valid
+2022-10-09T18:58:31 prefetch.3.0.0: 1) 'SRR3038527' was downloaded successfully
+
+2022-10-09T18:58:33 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T18:58:35 prefetch.3.0.0: 1) Downloading 'SRR3038528'...
+2022-10-09T18:58:35 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T18:58:35 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T19:01:10 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T19:01:12 prefetch.3.0.0:  'SRR3038528' is valid
+2022-10-09T19:01:12 prefetch.3.0.0: 1) 'SRR3038528' was downloaded successfully
+
+2022-10-09T19:01:14 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T19:01:15 prefetch.3.0.0: 1) Downloading 'SRR3038529'...
+2022-10-09T19:01:15 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T19:01:15 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T19:04:37 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T19:04:39 prefetch.3.0.0:  'SRR3038529' is valid
+2022-10-09T19:04:39 prefetch.3.0.0: 1) 'SRR3038529' was downloaded successfully
+
+2022-10-09T19:04:41 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T19:04:42 prefetch.3.0.0: 1) Downloading 'SRR3038530'...
+2022-10-09T19:04:42 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T19:04:42 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T19:11:00 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T19:11:04 prefetch.3.0.0:  'SRR3038530' is valid
+2022-10-09T19:11:04 prefetch.3.0.0: 1) 'SRR3038530' was downloaded successfully
+
+2022-10-09T19:11:07 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T19:11:08 prefetch.3.0.0: 1) Downloading 'SRR3038531'...
+2022-10-09T19:11:08 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T19:11:08 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T19:13:58 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T19:14:00 prefetch.3.0.0:  'SRR3038531' is valid
+2022-10-09T19:14:00 prefetch.3.0.0: 1) 'SRR3038531' was downloaded successfully
+
+2022-10-09T19:14:02 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T19:14:03 prefetch.3.0.0: 1) Downloading 'SRR3038532'...
+2022-10-09T19:14:03 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T19:14:03 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T19:15:51 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T19:15:52 prefetch.3.0.0:  'SRR3038532' is valid
+2022-10-09T19:15:52 prefetch.3.0.0: 1) 'SRR3038532' was downloaded successfully
+
+2022-10-09T19:15:55 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T19:15:56 prefetch.3.0.0: 1) Downloading 'SRR3038533'...
+2022-10-09T19:15:56 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T19:15:56 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T19:17:11 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T19:17:12 prefetch.3.0.0:  'SRR3038533' is valid
+2022-10-09T19:17:12 prefetch.3.0.0: 1) 'SRR3038533' was downloaded successfully
+
+2022-10-09T19:17:14 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T19:17:15 prefetch.3.0.0: 1) Downloading 'SRR3038534'...
+2022-10-09T19:17:15 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T19:17:15 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T19:20:46 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T19:20:48 prefetch.3.0.0:  'SRR3038534' is valid
+2022-10-09T19:20:48 prefetch.3.0.0: 1) 'SRR3038534' was downloaded successfully
+
+2022-10-09T19:20:51 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T19:21:09 prefetch.3.0.0: 1) Downloading 'SRR3038535'...
+2022-10-09T19:21:09 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T19:21:09 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:06:33 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:06:36 prefetch.3.0.0:  'SRR3038535' is valid
+2022-10-09T23:06:36 prefetch.3.0.0: 1) 'SRR3038535' was downloaded successfully
+
+2022-10-09T23:06:43 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:06:44 prefetch.3.0.0: 1) Downloading 'SRR3038536'...
+2022-10-09T23:06:44 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:06:44 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:10:07 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:10:09 prefetch.3.0.0:  'SRR3038536' is valid
+2022-10-09T23:10:09 prefetch.3.0.0: 1) 'SRR3038536' was downloaded successfully
+
+2022-10-09T23:10:11 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:10:12 prefetch.3.0.0: 1) Downloading 'SRR3038537'...
+2022-10-09T23:10:12 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:10:12 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:13:02 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:13:03 prefetch.3.0.0:  'SRR3038537' is valid
+2022-10-09T23:13:03 prefetch.3.0.0: 1) 'SRR3038537' was downloaded successfully
+
+2022-10-09T23:13:06 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:13:07 prefetch.3.0.0: 1) Downloading 'SRR3038538'...
+2022-10-09T23:13:07 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:13:07 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:16:38 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:16:40 prefetch.3.0.0:  'SRR3038538' is valid
+2022-10-09T23:16:40 prefetch.3.0.0: 1) 'SRR3038538' was downloaded successfully
+
+2022-10-09T23:16:42 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:16:43 prefetch.3.0.0: 1) Downloading 'SRR3038539'...
+2022-10-09T23:16:43 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:16:43 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:17:40 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:17:40 prefetch.3.0.0:  'SRR3038539' is valid
+2022-10-09T23:17:40 prefetch.3.0.0: 1) 'SRR3038539' was downloaded successfully
+
+2022-10-09T23:17:43 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:17:44 prefetch.3.0.0: 1) Downloading 'SRR3038540'...
+2022-10-09T23:17:44 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:17:44 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:19:22 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:19:23 prefetch.3.0.0:  'SRR3038540' is valid
+2022-10-09T23:19:23 prefetch.3.0.0: 1) 'SRR3038540' was downloaded successfully
+
+2022-10-09T23:19:25 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:19:26 prefetch.3.0.0: 1) Downloading 'SRR3038541'...
+2022-10-09T23:19:26 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:19:26 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:20:51 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:20:52 prefetch.3.0.0:  'SRR3038541' is valid
+2022-10-09T23:20:52 prefetch.3.0.0: 1) 'SRR3038541' was downloaded successfully
+
+2022-10-09T23:20:54 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:20:55 prefetch.3.0.0: 1) Downloading 'SRR3038542'...
+2022-10-09T23:20:55 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:20:55 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:22:06 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:22:07 prefetch.3.0.0:  'SRR3038542' is valid
+2022-10-09T23:22:07 prefetch.3.0.0: 1) 'SRR3038542' was downloaded successfully
+
+2022-10-09T23:22:09 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:22:10 prefetch.3.0.0: 1) Downloading 'SRR3038543'...
+2022-10-09T23:22:10 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:22:10 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:23:32 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:23:33 prefetch.3.0.0:  'SRR3038543' is valid
+2022-10-09T23:23:33 prefetch.3.0.0: 1) 'SRR3038543' was downloaded successfully
+
+2022-10-09T23:23:35 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:23:37 prefetch.3.0.0: 1) Downloading 'SRR3038544'...
+2022-10-09T23:23:37 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:23:37 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:25:10 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:25:10 prefetch.3.0.0:  'SRR3038544' is valid
+2022-10-09T23:25:10 prefetch.3.0.0: 1) 'SRR3038544' was downloaded successfully
+
+2022-10-09T23:25:13 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:25:14 prefetch.3.0.0: 1) Downloading 'SRR3038545'...
+2022-10-09T23:25:14 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:25:14 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:26:09 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:26:10 prefetch.3.0.0:  'SRR3038545' is valid
+2022-10-09T23:26:10 prefetch.3.0.0: 1) 'SRR3038545' was downloaded successfully
+
+2022-10-09T23:26:12 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:26:13 prefetch.3.0.0: 1) Downloading 'SRR3038546'...
+2022-10-09T23:26:13 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:26:13 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:27:17 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:27:18 prefetch.3.0.0:  'SRR3038546' is valid
+2022-10-09T23:27:18 prefetch.3.0.0: 1) 'SRR3038546' was downloaded successfully
+
+2022-10-09T23:27:20 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:27:21 prefetch.3.0.0: 1) Downloading 'SRR3038547'...
+2022-10-09T23:27:21 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:27:21 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:29:39 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:29:40 prefetch.3.0.0:  'SRR3038547' is valid
+2022-10-09T23:29:40 prefetch.3.0.0: 1) 'SRR3038547' was downloaded successfully
+
+2022-10-09T23:29:42 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:29:44 prefetch.3.0.0: 1) Downloading 'SRR3038548'...
+2022-10-09T23:29:44 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:29:44 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:30:45 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:30:45 prefetch.3.0.0:  'SRR3038548' is valid
+2022-10-09T23:30:45 prefetch.3.0.0: 1) 'SRR3038548' was downloaded successfully
+
+2022-10-09T23:30:47 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:30:48 prefetch.3.0.0: 1) Downloading 'SRR3038549'...
+2022-10-09T23:30:48 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:30:48 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:31:54 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:31:54 prefetch.3.0.0:  'SRR3038549' is valid
+2022-10-09T23:31:54 prefetch.3.0.0: 1) 'SRR3038549' was downloaded successfully
+
+2022-10-09T23:31:56 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:31:58 prefetch.3.0.0: 1) Downloading 'SRR3038550'...
+2022-10-09T23:31:58 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:31:58 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:32:34 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:32:35 prefetch.3.0.0:  'SRR3038550' is valid
+2022-10-09T23:32:35 prefetch.3.0.0: 1) 'SRR3038550' was downloaded successfully
+
+2022-10-09T23:32:36 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:32:38 prefetch.3.0.0: 1) Downloading 'SRR3038551'...
+2022-10-09T23:32:38 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:32:38 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:34:31 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:34:32 prefetch.3.0.0:  'SRR3038551' is valid
+2022-10-09T23:34:32 prefetch.3.0.0: 1) 'SRR3038551' was downloaded successfully
+
+2022-10-09T23:34:34 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:34:35 prefetch.3.0.0: 1) Downloading 'SRR3038552'...
+2022-10-09T23:34:35 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:34:35 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:35:26 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:35:27 prefetch.3.0.0:  'SRR3038552' is valid
+2022-10-09T23:35:27 prefetch.3.0.0: 1) 'SRR3038552' was downloaded successfully
+
+2022-10-09T23:35:29 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:35:30 prefetch.3.0.0: 1) Downloading 'SRR3038554'...
+2022-10-09T23:35:30 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:35:30 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:37:05 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:37:06 prefetch.3.0.0:  'SRR3038554' is valid
+2022-10-09T23:37:06 prefetch.3.0.0: 1) 'SRR3038554' was downloaded successfully
+
+2022-10-09T23:37:13 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:37:14 prefetch.3.0.0: 1) Downloading 'SRR3038555'...
+2022-10-09T23:37:14 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:37:14 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:38:34 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:38:35 prefetch.3.0.0:  'SRR3038555' is valid
+2022-10-09T23:38:35 prefetch.3.0.0: 1) 'SRR3038555' was downloaded successfully
+
+2022-10-09T23:38:37 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:38:38 prefetch.3.0.0: 1) Downloading 'SRR3038556'...
+2022-10-09T23:38:38 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:38:38 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:39:36 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:39:36 prefetch.3.0.0:  'SRR3038556' is valid
+2022-10-09T23:39:36 prefetch.3.0.0: 1) 'SRR3038556' was downloaded successfully
+
+2022-10-09T23:39:39 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:39:40 prefetch.3.0.0: 1) Downloading 'SRR3038557'...
+2022-10-09T23:39:40 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:39:40 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:40:37 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:40:38 prefetch.3.0.0:  'SRR3038557' is valid
+2022-10-09T23:40:38 prefetch.3.0.0: 1) 'SRR3038557' was downloaded successfully
+
+2022-10-09T23:40:40 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:40:41 prefetch.3.0.0: 1) Downloading 'SRR3038558'...
+2022-10-09T23:40:41 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:40:41 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:41:20 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:41:21 prefetch.3.0.0:  'SRR3038558' is valid
+2022-10-09T23:41:21 prefetch.3.0.0: 1) 'SRR3038558' was downloaded successfully
+
+2022-10-09T23:41:23 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:41:24 prefetch.3.0.0: 1) Downloading 'SRR3038559'...
+2022-10-09T23:41:24 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:41:24 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:42:32 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:42:33 prefetch.3.0.0:  'SRR3038559' is valid
+2022-10-09T23:42:33 prefetch.3.0.0: 1) 'SRR3038559' was downloaded successfully
+
+2022-10-09T23:42:35 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:42:36 prefetch.3.0.0: 1) Downloading 'SRR3038560'...
+2022-10-09T23:42:36 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:42:36 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:43:08 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:43:08 prefetch.3.0.0:  'SRR3038560' is valid
+2022-10-09T23:43:08 prefetch.3.0.0: 1) 'SRR3038560' was downloaded successfully
+
+2022-10-09T23:43:10 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:43:11 prefetch.3.0.0: 1) Downloading 'SRR3038561'...
+2022-10-09T23:43:11 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:43:11 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:43:59 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:44:00 prefetch.3.0.0:  'SRR3038561' is valid
+2022-10-09T23:44:00 prefetch.3.0.0: 1) 'SRR3038561' was downloaded successfully
+
+2022-10-09T23:44:03 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:44:04 prefetch.3.0.0: 1) Downloading 'SRR3038562'...
+2022-10-09T23:44:04 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:44:04 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:44:31 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:44:32 prefetch.3.0.0:  'SRR3038562' is valid
+2022-10-09T23:44:32 prefetch.3.0.0: 1) 'SRR3038562' was downloaded successfully
+
+2022-10-09T23:44:33 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:44:34 prefetch.3.0.0: 1) Downloading 'SRR3038563'...
+2022-10-09T23:44:34 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:44:34 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:46:12 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:46:13 prefetch.3.0.0:  'SRR3038563' is valid
+2022-10-09T23:46:13 prefetch.3.0.0: 1) 'SRR3038563' was downloaded successfully
+
+2022-10-09T23:46:16 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:46:17 prefetch.3.0.0: 1) Downloading 'SRR3038564'...
+2022-10-09T23:46:17 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:46:17 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:48:07 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:48:08 prefetch.3.0.0:  'SRR3038564' is valid
+2022-10-09T23:48:08 prefetch.3.0.0: 1) 'SRR3038564' was downloaded successfully
+
+2022-10-09T23:48:10 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:48:11 prefetch.3.0.0: 1) Downloading 'SRR3038565'...
+2022-10-09T23:48:11 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:48:11 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:48:25 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:48:25 prefetch.3.0.0:  'SRR3038565' is valid
+2022-10-09T23:48:25 prefetch.3.0.0: 1) 'SRR3038565' was downloaded successfully
+
+2022-10-09T23:48:26 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:48:27 prefetch.3.0.0: 1) Downloading 'SRR3038566'...
+2022-10-09T23:48:27 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:48:27 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:48:39 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:48:39 prefetch.3.0.0:  'SRR3038566' is valid
+2022-10-09T23:48:39 prefetch.3.0.0: 1) 'SRR3038566' was downloaded successfully
+
+2022-10-09T23:48:41 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:48:42 prefetch.3.0.0: 1) Downloading 'SRR3038567'...
+2022-10-09T23:48:42 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:48:42 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:48:59 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:48:59 prefetch.3.0.0:  'SRR3038567' is valid
+2022-10-09T23:48:59 prefetch.3.0.0: 1) 'SRR3038567' was downloaded successfully
+
+2022-10-09T23:49:01 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:49:02 prefetch.3.0.0: 1) Downloading 'SRR3038568'...
+2022-10-09T23:49:02 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:49:02 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-09T23:49:17 prefetch.3.0.0:  HTTPS download succeed
+2022-10-09T23:49:17 prefetch.3.0.0:  'SRR3038568' is valid
+2022-10-09T23:49:17 prefetch.3.0.0: 1) 'SRR3038568' was downloaded successfully
+
+2022-10-09T23:49:19 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-09T23:49:28 prefetch.3.0.0: 1) Downloading 'SRR3038569'...
+2022-10-09T23:49:28 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-09T23:49:28 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:09:42 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:09:42 prefetch.3.0.0:  'SRR3038569' is valid
+2022-10-10T02:09:42 prefetch.3.0.0: 1) 'SRR3038569' was downloaded successfully
+
+2022-10-10T02:09:45 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:09:46 prefetch.3.0.0: 1) Downloading 'SRR3038570'...
+2022-10-10T02:09:46 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:09:46 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:09:55 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:09:55 prefetch.3.0.0:  'SRR3038570' is valid
+2022-10-10T02:09:55 prefetch.3.0.0: 1) 'SRR3038570' was downloaded successfully
+
+2022-10-10T02:09:57 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:09:58 prefetch.3.0.0: 1) Downloading 'SRR3038571'...
+2022-10-10T02:09:58 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:09:58 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:10:14 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:10:14 prefetch.3.0.0:  'SRR3038571' is valid
+2022-10-10T02:10:14 prefetch.3.0.0: 1) 'SRR3038571' was downloaded successfully
+
+2022-10-10T02:10:16 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:10:17 prefetch.3.0.0: 1) Downloading 'SRR3038572'...
+2022-10-10T02:10:17 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:10:17 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:10:30 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:10:30 prefetch.3.0.0:  'SRR3038572' is valid
+2022-10-10T02:10:30 prefetch.3.0.0: 1) 'SRR3038572' was downloaded successfully
+
+2022-10-10T02:10:32 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:10:33 prefetch.3.0.0: 1) Downloading 'SRR3038573'...
+2022-10-10T02:10:33 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:10:33 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:11:06 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:11:06 prefetch.3.0.0:  'SRR3038573' is valid
+2022-10-10T02:11:06 prefetch.3.0.0: 1) 'SRR3038573' was downloaded successfully
+
+2022-10-10T02:11:08 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:11:09 prefetch.3.0.0: 1) Downloading 'SRR3038574'...
+2022-10-10T02:11:09 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:11:09 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:11:42 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:11:42 prefetch.3.0.0:  'SRR3038574' is valid
+2022-10-10T02:11:42 prefetch.3.0.0: 1) 'SRR3038574' was downloaded successfully
+
+2022-10-10T02:11:44 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:11:45 prefetch.3.0.0: 1) Downloading 'SRR3038575'...
+2022-10-10T02:11:45 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:11:45 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:12:01 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:12:01 prefetch.3.0.0:  'SRR3038575' is valid
+2022-10-10T02:12:01 prefetch.3.0.0: 1) 'SRR3038575' was downloaded successfully
+
+2022-10-10T02:12:03 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:12:04 prefetch.3.0.0: 1) Downloading 'SRR3038576'...
+2022-10-10T02:12:04 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:12:04 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:12:12 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:12:12 prefetch.3.0.0:  'SRR3038576' is valid
+2022-10-10T02:12:12 prefetch.3.0.0: 1) 'SRR3038576' was downloaded successfully
+
+2022-10-10T02:12:14 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:12:15 prefetch.3.0.0: 1) Downloading 'SRR3038577'...
+2022-10-10T02:12:15 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:12:15 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:12:42 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:12:42 prefetch.3.0.0:  'SRR3038577' is valid
+2022-10-10T02:12:42 prefetch.3.0.0: 1) 'SRR3038577' was downloaded successfully
+
+2022-10-10T02:12:44 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:12:45 prefetch.3.0.0: 1) Downloading 'SRR3038578'...
+2022-10-10T02:12:45 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:12:45 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:13:09 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:13:09 prefetch.3.0.0:  'SRR3038578' is valid
+2022-10-10T02:13:09 prefetch.3.0.0: 1) 'SRR3038578' was downloaded successfully
+
+2022-10-10T02:13:11 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:13:12 prefetch.3.0.0: 1) Downloading 'SRR3038579'...
+2022-10-10T02:13:12 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:13:12 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:13:17 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:13:17 prefetch.3.0.0:  'SRR3038579' is valid
+2022-10-10T02:13:17 prefetch.3.0.0: 1) 'SRR3038579' was downloaded successfully
+
+2022-10-10T02:13:20 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:13:21 prefetch.3.0.0: 1) Downloading 'SRR3038580'...
+2022-10-10T02:13:21 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:13:21 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:13:32 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:13:32 prefetch.3.0.0:  'SRR3038580' is valid
+2022-10-10T02:13:32 prefetch.3.0.0: 1) 'SRR3038580' was downloaded successfully
+
+2022-10-10T02:13:34 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:13:35 prefetch.3.0.0: 1) Downloading 'SRR3038581'...
+2022-10-10T02:13:35 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:13:35 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:13:46 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:13:46 prefetch.3.0.0:  'SRR3038581' is valid
+2022-10-10T02:13:46 prefetch.3.0.0: 1) 'SRR3038581' was downloaded successfully
+
+2022-10-10T02:13:48 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:13:49 prefetch.3.0.0: 1) Downloading 'SRR3038582'...
+2022-10-10T02:13:49 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:13:49 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:13:58 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:13:58 prefetch.3.0.0:  'SRR3038582' is valid
+2022-10-10T02:13:58 prefetch.3.0.0: 1) 'SRR3038582' was downloaded successfully
+
+2022-10-10T02:14:00 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:14:01 prefetch.3.0.0: 1) Downloading 'SRR3038583'...
+2022-10-10T02:14:01 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:14:01 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:14:14 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:14:14 prefetch.3.0.0:  'SRR3038583' is valid
+2022-10-10T02:14:14 prefetch.3.0.0: 1) 'SRR3038583' was downloaded successfully
+
+2022-10-10T02:14:16 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:14:17 prefetch.3.0.0: 1) Downloading 'SRR3038584'...
+2022-10-10T02:14:17 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:14:17 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:14:33 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:14:33 prefetch.3.0.0:  'SRR3038584' is valid
+2022-10-10T02:14:33 prefetch.3.0.0: 1) 'SRR3038584' was downloaded successfully
+
+2022-10-10T02:14:35 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:14:36 prefetch.3.0.0: 1) Downloading 'SRR3038585'...
+2022-10-10T02:14:36 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:14:36 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:14:49 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:14:49 prefetch.3.0.0:  'SRR3038585' is valid
+2022-10-10T02:14:49 prefetch.3.0.0: 1) 'SRR3038585' was downloaded successfully
+
+2022-10-10T02:14:51 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:14:52 prefetch.3.0.0: 1) Downloading 'SRR3038586'...
+2022-10-10T02:14:52 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:14:52 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:15:05 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:15:05 prefetch.3.0.0:  'SRR3038586' is valid
+2022-10-10T02:15:05 prefetch.3.0.0: 1) 'SRR3038586' was downloaded successfully
+
+2022-10-10T02:15:09 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:15:10 prefetch.3.0.0: 1) Downloading 'SRR3038587'...
+2022-10-10T02:15:10 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:15:10 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:15:17 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:15:17 prefetch.3.0.0:  'SRR3038587' is valid
+2022-10-10T02:15:17 prefetch.3.0.0: 1) 'SRR3038587' was downloaded successfully
+
+2022-10-10T02:15:19 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:15:20 prefetch.3.0.0: 1) Downloading 'SRR3038588'...
+2022-10-10T02:15:20 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:15:20 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:15:33 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:15:33 prefetch.3.0.0:  'SRR3038588' is valid
+2022-10-10T02:15:33 prefetch.3.0.0: 1) 'SRR3038588' was downloaded successfully
+
+2022-10-10T02:15:35 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:15:36 prefetch.3.0.0: 1) Downloading 'SRR3038589'...
+2022-10-10T02:15:36 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:15:36 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:15:49 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:15:49 prefetch.3.0.0:  'SRR3038589' is valid
+2022-10-10T02:15:49 prefetch.3.0.0: 1) 'SRR3038589' was downloaded successfully
+
+2022-10-10T02:15:52 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:15:53 prefetch.3.0.0: 1) Downloading 'SRR3038590'...
+2022-10-10T02:15:53 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:15:53 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:16:04 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:16:04 prefetch.3.0.0:  'SRR3038590' is valid
+2022-10-10T02:16:04 prefetch.3.0.0: 1) 'SRR3038590' was downloaded successfully
+
+2022-10-10T02:16:06 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:16:07 prefetch.3.0.0: 1) Downloading 'SRR3038591'...
+2022-10-10T02:16:07 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:16:07 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:16:26 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:16:26 prefetch.3.0.0:  'SRR3038591' is valid
+2022-10-10T02:16:26 prefetch.3.0.0: 1) 'SRR3038591' was downloaded successfully
+
+2022-10-10T02:16:28 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:16:29 prefetch.3.0.0: 1) Downloading 'SRR3038592'...
+2022-10-10T02:16:29 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:16:29 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:16:47 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:16:47 prefetch.3.0.0:  'SRR3038592' is valid
+2022-10-10T02:16:47 prefetch.3.0.0: 1) 'SRR3038592' was downloaded successfully
+
+2022-10-10T02:16:49 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:16:50 prefetch.3.0.0: 1) Downloading 'SRR3038593'...
+2022-10-10T02:16:50 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:16:50 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:17:02 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:17:02 prefetch.3.0.0:  'SRR3038593' is valid
+2022-10-10T02:17:02 prefetch.3.0.0: 1) 'SRR3038593' was downloaded successfully
+
+2022-10-10T02:17:05 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:17:06 prefetch.3.0.0: 1) Downloading 'SRR3038594'...
+2022-10-10T02:17:06 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:17:06 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:17:28 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:17:28 prefetch.3.0.0:  'SRR3038594' is valid
+2022-10-10T02:17:28 prefetch.3.0.0: 1) 'SRR3038594' was downloaded successfully
+
+2022-10-10T02:17:30 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:17:31 prefetch.3.0.0: 1) Downloading 'SRR3038595'...
+2022-10-10T02:17:31 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:17:31 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:17:45 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:17:45 prefetch.3.0.0:  'SRR3038595' is valid
+2022-10-10T02:17:45 prefetch.3.0.0: 1) 'SRR3038595' was downloaded successfully
+
+2022-10-10T02:17:47 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:17:47 prefetch.3.0.0: 1) Downloading 'SRR3038596'...
+2022-10-10T02:17:47 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:17:47 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:18:06 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:18:06 prefetch.3.0.0:  'SRR3038596' is valid
+2022-10-10T02:18:06 prefetch.3.0.0: 1) 'SRR3038596' was downloaded successfully
+
+2022-10-10T02:18:08 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:18:09 prefetch.3.0.0: 1) Downloading 'SRR3038597'...
+2022-10-10T02:18:09 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:18:09 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:18:31 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:18:31 prefetch.3.0.0:  'SRR3038597' is valid
+2022-10-10T02:18:31 prefetch.3.0.0: 1) 'SRR3038597' was downloaded successfully
+
+2022-10-10T02:18:33 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:18:34 prefetch.3.0.0: 1) Downloading 'SRR3038598'...
+2022-10-10T02:18:34 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:18:34 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:18:58 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:18:58 prefetch.3.0.0:  'SRR3038598' is valid
+2022-10-10T02:18:58 prefetch.3.0.0: 1) 'SRR3038598' was downloaded successfully
+
+2022-10-10T02:19:00 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:19:01 prefetch.3.0.0: 1) Downloading 'SRR3038599'...
+2022-10-10T02:19:01 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:19:01 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:19:24 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:19:25 prefetch.3.0.0:  'SRR3038599' is valid
+2022-10-10T02:19:25 prefetch.3.0.0: 1) 'SRR3038599' was downloaded successfully
+
+2022-10-10T02:19:27 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:19:28 prefetch.3.0.0: 1) Downloading 'SRR3038600'...
+2022-10-10T02:19:28 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:19:28 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:19:46 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:19:46 prefetch.3.0.0:  'SRR3038600' is valid
+2022-10-10T02:19:46 prefetch.3.0.0: 1) 'SRR3038600' was downloaded successfully
+
+2022-10-10T02:19:48 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:19:49 prefetch.3.0.0: 1) Downloading 'SRR3038601'...
+2022-10-10T02:19:49 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:19:49 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:20:14 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:20:14 prefetch.3.0.0:  'SRR3038601' is valid
+2022-10-10T02:20:14 prefetch.3.0.0: 1) 'SRR3038601' was downloaded successfully
+
+2022-10-10T02:20:16 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:20:17 prefetch.3.0.0: 1) Downloading 'SRR3038602'...
+2022-10-10T02:20:17 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:20:17 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:20:39 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:20:39 prefetch.3.0.0:  'SRR3038602' is valid
+2022-10-10T02:20:39 prefetch.3.0.0: 1) 'SRR3038602' was downloaded successfully
+
+2022-10-10T02:20:42 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:20:43 prefetch.3.0.0: 1) Downloading 'SRR3038603'...
+2022-10-10T02:20:43 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:20:43 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:21:06 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:21:06 prefetch.3.0.0:  'SRR3038603' is valid
+2022-10-10T02:21:06 prefetch.3.0.0: 1) 'SRR3038603' was downloaded successfully
+
+2022-10-10T02:21:08 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:21:09 prefetch.3.0.0: 1) Downloading 'SRR3038604'...
+2022-10-10T02:21:09 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:21:09 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:21:37 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:21:37 prefetch.3.0.0:  'SRR3038604' is valid
+2022-10-10T02:21:37 prefetch.3.0.0: 1) 'SRR3038604' was downloaded successfully
+
+2022-10-10T02:21:39 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:21:40 prefetch.3.0.0: 1) Downloading 'SRR3038605'...
+2022-10-10T02:21:40 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:21:40 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T02:21:59 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T02:21:59 prefetch.3.0.0:  'SRR3038605' is valid
+2022-10-10T02:21:59 prefetch.3.0.0: 1) 'SRR3038605' was downloaded successfully
+
+2022-10-10T02:22:01 prefetch.3.0.0: Current preference is set to retrieve SRA Normalized Format files with full base quality scores.
+2022-10-10T02:22:11 prefetch.3.0.0: 1) Downloading 'SRR3038606'...
+2022-10-10T02:22:11 prefetch.3.0.0: SRA Normalized Format file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2022-10-10T02:22:11 prefetch.3.0.0:  Downloading via HTTPS...
+2022-10-10T06:35:24 prefetch.3.0.0:  HTTPS download succeed
+2022-10-10T06:35:24 prefetch.3.0.0:  'SRR3038606' is valid
+2022-10-10T06:35:24 prefetch.3.0.0: 1) 'SRR3038606' was downloaded successfully

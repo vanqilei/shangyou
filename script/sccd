@@ -1,0 +1,77 @@
+#!/bin/bash
+
+#这里的开始参数不用给，之后的不变
+#即结束 项目名称 物种名称 测序策略
+
+
+export main=/home/fjl/vql/
+export cunfang=~/script/
+export proj=$2/
+export index=${main}/RsemIndex/
+export feature=$3
+#传的参数
+export layout=$4
+#头剪几bp
+export cutbp=0
+#线程数
+export xcs=16
+#rsem调用star的位置
+starweizhi=`which STAR`
+starweizhi=`echo ${starweizhi%/*}`
+
+#目录
+mkdir ${main}/$proj/log/ -p
+mkdir ${main}/${proj}/data/fqdata  ${main}/${proj}/qc   ${main}/${proj}/count  ${main}/${proj}/qc/prep  ${main}/${proj}/qc/multirep ${main}/${proj}/qc/qrep -p
+. $cunfang/scck
+
+jishu=0
+#开始循环
+time1=`date +"%Y-%m-%d %H:%M:%S"`
+rm -f ${main}/$proj/log/mis.download 
+rm -f ${main}/$proj/log/yichang
+cat ${main}/$proj/*.name|while read x
+do
+#报告位置
+exec > ${main}/$proj/log/$x.log 2>&1
+export x
+	DcheckForDw Dw
+	if [ $yc -ne 0 ]
+	then
+		jishu=100
+		echo $x >> ${main}/$proj/log/mis.download
+		continue
+	fi
+	if [ $1 -gt 0 ]
+	then
+		nohup $cunfang/sccdb 1 $1   &
+	fi
+done
+
+if [ $1 == 4 ]
+then
+	multiqc ${main}/${proj}/qc/qrep/ -o ${main}/${proj}/qc/multirep/
+	multiqc ${main}/${proj}/qc/qrep/ -o ${main}/${proj}/qc/multirep/ --interactive
+fi
+cat ${main}/$proj/log/*.log > ${main}/$proj/log/All.log
+
+
+time2=`date +"%Y-%m-%d %H:%M:%S"`
+
+#统计用时
+
+tstart=`date -d "$time1" +%s`
+tend=`date -d "$time2" +%s`
+total=$(($tstart-$tend))
+
+#报告位置
+exec > ${main}/$proj/log/$x.time 2>&1
+echo time consumed $total sec in total
+
+
+
+
+if [ $jishu -ne 0 ]
+then
+	echo 非正常下载
+	exit $jishu
+fi

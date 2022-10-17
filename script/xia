@@ -1,0 +1,16 @@
+#!/bin/bash
+
+mkdir /home/fjl/vql/$1
+cat /home/fjl/${1}.txt|while read x
+do
+
+yc=1
+
+while [ $yc -ne 0 ]
+do
+yc=0
+ascp -i /home/fjl/asperaweb_id_dsa.openssh  -QT -l400m -k1 -P33001  era-fasp@${x}  /home/fjl/vql/${1}
+
+let yc=$?
+done
+done

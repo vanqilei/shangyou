@@ -1,0 +1,178 @@
+#!/bin/bash
+
+#库文件
+
+
+function DcheckForDw()
+{
+        yc=1;count=0
+        while [ $yc -ne 0  -a  $count -lt 2 ]
+        do
+                $1
+                yc=$?;count=$(($count+1))
+                if [ $yc -ne 0 ]
+                then
+			rm -fr ${main}/${proj}/data/$x*
+                        sleep 120
+                fi
+        done
+}
+
+
+function Dcheck() 
+{
+        yc=1;count=0
+        while [ $yc -ne 0  -a  $count -lt 2 ]
+        do
+                $1
+                yc=$?;count=$(($count+1))
+        done
+}
+
+function Dw() 
+{
+	if [ ! -e ${main}/${proj}/data/$x.sra* ]
+	then
+		rm ${main}/${proj}/data/$x*
+	fi
+        prefetch  -C yes  $x -O ${main}/${proj}/data
+
+}
+
+function Dump()
+{
+        echo 开始 dump $x
+        fasterq-dump -3  ${main}/${proj}/data/${x}/*.sra  -e $xcs  -O ${main}/${proj}/data/fqdata
+        echo 结束 Dump $x implied with exit code $? 
+}
+
+#输入可以放宽，输出不要
+function Qc()
+{
+        #双端
+        if [ $layout == 2 ]
+        then
+                echo 开始 Fastp for $x
+                fastp -i ${main}/${proj}/data/fqdata/${x}_1*  -I ${main}/${proj}/data/fqdata/${x}_2*  \
+                -o ${main}/${proj}/qc/${x}_1.fq.gz -O ${main}/${proj}/qc/${x}_2.fq.gz \
+                -f $cutbp  --thread $xcs  \
+                -j  ${main}/${proj}/qc/prep/${x}.json  -h ${main}/${proj}/qc/prep/${x}.html -p
+                echo done with exit code $?
+        #单端
+        else
+                echo 开始 Fastp For $x
+                fastp -i ${main}/${proj}/data/fqdata/${x}*   \
+                -o ${main}/${proj}/qc/${x}.fq.gz  \
+                -f $cutbp --thread $xcs  \
+                -j ${main}/${proj}/qc/prep/${x}.json  -h ${main}/${proj}/qc/prep/${x}.html -p
+                echo 结束 done with exit code $?
+
+        fi
+}
+
+function Qc1()
+{
+        #双端
+        if [ $layout == 2 ]
+        then
+                echo 开始 Fastp1 for $x
+                fastp -i ${dataat}/${x}_1*  -I ${dataat}${x}_2*  \
+                -o ${main}/${proj}/qc/${x}_1.fq.gz -O ${main}/${proj}/qc/${x}_2.fq.gz \
+                -f $cutbp  --thread $xcs  \
+                -j  ${main}/${proj}/qc/prep/${x}.json  -h ${main}/${proj}/qc/prep/${x}.html -p
+                echo done with exit code $?
+        #单端
+        else
+                echo 开始 Fastp1 For $x
+                fastp -i ${dataat}${x}*   \
+                -o ${main}/${proj}/qc/${x}.fq.gz  \
+                -f $cutbp --thread $xcs  \
+                -j ${main}/${proj}/qc/prep/${x}.json  -h ${main}/${proj}/qc/prep/${x}.html -p
+                echo 结束 done with exit code $?
+
+        fi
+}
+
+
+function StarRsem()
+{
+        #双
+        if [ $layout == 2 ]
+	then
+                echo 开始 Star Rsem for $x
+                rsem-calculate-expression \
+                --paired-end \
+                --no-bam-output \
+                --star \
+                --star-path $starweizhi \
+                --star-gzipped-read-file \
+                -p $xcs   \
+                ${main}/$proj/qc/${x}_1.*.gz   \
+                ${main}/$proj/qc/${x}_2.*.gz   \
+                ${index}/$feature/${feature}_rsem  \
+                ${main}/$proj/count/${x}
+        #单
+        else
+                echo 开始 Star Rsem for $x
+                rsem-calculate-expression \
+                --no-bam-output \
+                --star \
+                --star-path $starweizhi \
+                --star-gzipped-read-file \
+                -p $xcs   \
+                ${main}/$proj/qc/${x}.*.gz   \
+                ${index}/$feature/${feature}_rsem  \
+                ${main}/$proj/count/${x}
+        fi
+	echo 结束 Done Star Rsem
+}
+
+
+function Qreport()
+{
+	 fastqc ${main}/${proj}/qc/*.fq.gz -o ${main}/${proj}/qc/qrep/ -t $xcs
+}
+
+function Yichang(){
+	echo $x >> ${main}/$proj/log/yichang
+}
+function indexZd(){
+	if [ $2 == "gtf" ]
+then
+        rsem-prepare-reference \
+        --gtf ${main}/refGenome/$i/*.gtf \
+        -p $xcs \
+        --star \
+        --star-path $starweizhi \
+        ${main}/refGenome/$i/*.fa  \
+        ${main}/RsemIndex/$i/$i_rsem
+else
+        rsem-prepare-reference \
+        --gff3 ${main}/refGenome/$i/*.gff \
+        -p $xcs \
+        --star \
+        --star-path $starweizhi \
+        ${main}/refGenome/$i/*.fa  \
+        ${main}/RsemIndex/$i/$i_rsem
+fi
+}
+function indexSd(){
+	if [ $2 == "gtf" ]
+then
+        rsem-prepare-reference \
+        --gtf ${main}/refGenome/$1/*.gtf \
+        -p $xcs \
+        --star \
+        --star-path $starweizhi \
+        ${main}/refGenome/$1/*.fa  \
+        ${main}/RsemIndex/$1/$1_rsem
+else
+        rsem-prepare-reference \
+        --gff3 ${main}/refGenome/$1/*.gff \
+        -p $xcs \
+        --star \
+        --star-path $starweizhi \
+        ${main}/refGenome/$1/*.fa  \
+        ${main}/RsemIndex/$1/$1_rsem
+fi
+}
